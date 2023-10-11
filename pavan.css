@@ -1,0 +1,122 @@
+
+.padding {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+.border-style {
+    border-style: solid;
+    border-color: #4b6cc1;
+}
+
+.background {
+    background-color: #191a1d;
+
+}
+
+.heading {
+    color: white;
+}
+
+.Jenny {
+    color: orange;
+}
+
+.paragraph {
+    color: white;
+    font-size: 35px;
+}
+
+.button {
+    background-color: #4b6cc1;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+.heading {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.heading1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.heading2 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: #323f4b;
+
+}
+
+.card-skills {
+    background-color: #323f4b;
+    border-radius: 10px;
+    height: 130px;
+    width: 150px;
+}
+
+.bg-skills {
+    background-color: #1f2933;
+    padding: 19px;
+}
+
+.img1 {
+    height: 70px;
+}
+
+.img {
+    height: 260px;
+    width: 250px;
+    margin: 5px;
+}
+
+.para {
+    color: #9aa5b1;
+}
+
+
+bg {
+    ;
+    background-color: #0d2436;
+
+}
+
+.bg1 {
+
+    background-color: #001c32;
+    padding: 5px;
+
+
+}
+
+.imgc {
+    height: 70px;
+    width: 70px;
+    border-radius: 45px;
+}
+
+.heading {
+    color: #cced00;
+}
+
+.para {
+    color: #9aa5b1;
+}
